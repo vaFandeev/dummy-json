@@ -1,0 +1,12 @@
+{
+  "stocks": [{
+    "ticker": "AAPL",
+    "price": 100.50
+  },{
+    "ticker": "GOOGL",
+    "price": 200.50
+  },{
+    "ticker": "META",
+    "price": 300.50
+  }]
+}

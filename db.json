@@ -1,7 +1,7 @@
 {
   "stocks": [{
     "ticker": "AAPL",
-    "price": 100.50
+    "price": 99.50
   },{
     "ticker": "GOOGL",
     "price": 200.50
